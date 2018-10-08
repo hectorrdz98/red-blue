@@ -1,0 +1,33 @@
+﻿{
+	"version": 1538964778,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/naranjito-sheet0.png",
+		"images/player1-sheet0.png",
+		"images/player2-sheet0.png",
+		"images/pared.png",
+		"images/particlesp2.png",
+		"images/particlesp1.png",
+		"images/velocidad-sheet0.png",
+		"images/warp-sheet0.png",
+		"images/zombie-sheet0.png",
+		"images/franco-sheet0.png",
+		"images/balafranco-sheet0.png",
+		"images/barrerabalas.png",
+		"images/particlesbarrera.png",
+		"images/piso-sheet0.png",
+		"images/pincho-sheet0.png",
+		"images/destructor-sheet0.png",
+		"media/693041.m4a",
+		"media/693041.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"pathfind.js"
+	]
+}
